@@ -1,0 +1,18 @@
+{
+  "name": "dmd-plugin-gitbook",
+  "version": "0.0.1",
+  "description": "Plugin for jsdoc2md to produce markdown suitable for Gitbook.",
+  "main": "lib/dmd-plugin-gitbook.js",
+  "keywords": [
+    "jsdoc2md",
+    "jsdoc",
+    "gitbook",
+    "plugin",
+    "documentation"
+  ],
+  "author": "Maga D. Zandaqo <denelxan@gmail.com> (http://maga.name)",
+  "license": "MIT",
+  "peerDependencies": {
+    "jsdoc-to-markdown": "^3.0.0"
+  }
+}
