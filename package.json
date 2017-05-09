@@ -1,6 +1,6 @@
 {
   "name": "dmd-plugin-gitbook",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin for jsdoc2md to produce markdown suitable for Gitbook.",
   "main": "lib/dmd-plugin-gitbook.js",
   "keywords": [
@@ -14,5 +14,7 @@
   "license": "MIT",
   "peerDependencies": {
     "jsdoc-to-markdown": "^3.0.0"
-  }
+  },
+  "eslintConfig": {},
+  "devDependencies": {}
 }
